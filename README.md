@@ -19,7 +19,7 @@
 ![Mehmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thesemyaza&show_icons=true&theme=radical)
 
 ## Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamethesemyaza&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesemyaza&layout=compact)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/m-toprak34/)
