@@ -5,6 +5,7 @@
 - 🌱 I'm currently learning HTML & CSS & Javascript.
 - 💻 I'm also working on Python projects.
 - 🏠 Based in Italy.
+- 💻 Check out my work at [Leadrize](https://leadrize.co)
 - 📧 Reach me at info@leadrize.co
 - 💼 Growth Hacker working with small businesses.
 
